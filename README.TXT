@@ -20,4 +20,17 @@ How to start this project: Create one or more TicketMachine objects.
 
 3.Putting too much money gives a refund like usal. When putting to little it will let you insert it but when printing a ticket it will say the remaining you have to pay.
 
-4. 
+5. the only thing that is diffrent is the cost of the ticket.
+
+6. public class Student{
+    public int age;
+    public String name;
+}
+
+7. Everything became white. Idenifer expected. Not at all.
+
+8. Yes the code still works
+
+9. No class expected
+
+10. 3 feilds price, balence total, 1 contructor TicketMachine, 5 methods getprice, insertmoney, etc
