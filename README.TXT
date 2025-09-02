@@ -34,3 +34,23 @@ How to start this project: Create one or more TicketMachine objects.
 9. No class expected
 
 10. 3 feilds price, balence total, 1 contructor TicketMachine, 5 methods getprice, insertmoney, etc
+
+11. no type and holds the classes name
+
+12. int,String,String
+
+13. alive,tutor,game
+
+14. Student,Server,Person,Game
+
+15. nothing changes 
+
+16. Yes it always requires a semicolon
+
+17. public int status;
+
+18. Student 
+
+19. 2 String and double
+
+20. 
