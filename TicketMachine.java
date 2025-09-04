@@ -84,7 +84,11 @@ public class TicketMachine
                               price - balance);
         }
     }
-
+    
+    public int getTotal(){
+        return  total;
+    }
+    
     /**
      * Return the money in the balance.
      * The balance is cleared.

@@ -53,4 +53,23 @@ How to start this project: Create one or more TicketMachine objects.
 
 19. 2 String and double
 
-20. 
+20. no its alredy declaried,int #entry,String bookName 
+
+22. (String Month,int day,int year)
+
+23. balence vs price
+
+24: how much money i have left
+
+25: yes
+
+26: done
+
+28: if statement vs return
+
+29: not insert becuase your gving info
+
+30: 
+
+31: 
+
