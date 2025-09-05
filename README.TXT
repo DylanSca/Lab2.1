@@ -71,5 +71,10 @@ How to start this project: Create one or more TicketMachine objects.
 
 30: 
 
-31: 
+31: public void increaseScore(){
+        score= score+1;
+    }
+37: My cat has green eyes
+
+38:
 
