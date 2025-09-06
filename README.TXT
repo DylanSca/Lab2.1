@@ -76,5 +76,11 @@ How to start this project: Create one or more TicketMachine objects.
     }
 37: My cat has green eyes
 
-38:
+39: # price cents
+
+40:# price cents.
+
+42: different outputs
+
+44: All machines created will always have to be the price of 1000 cents.
 
